@@ -1,6 +1,6 @@
 # Structures de Données en Python
 
-Bienvenue dans ce projet qui propose une implémentation de structures de données en Python, inspirée des cours de M. DEGUENON, professeur de Structure de Données et Applications à l'Institut de formation et de Recherche en Informatique de l'Université d'Abomey-Calavi (ifri-uac.bj).
+Bienvenue dans ce projet qui propose une implémentation de structures de données en Python, inspirée des cours de M. DEGUENON, professeur de Structure de Données et Applications à l'Institut de formation et de Recherche en Informatique de l'Université d'Abomey-Calavi (https://ifri-uac.bj).
 
 ## 📚 Structures de Données
 
