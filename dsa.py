@@ -566,7 +566,7 @@ class BTree:
             res.append(self.data)
             res =res +self._preorder(root.left,res)
             res += self._preorder(root.right,res)
-    
+        return res
             
     def preorder(self):
         """
@@ -597,6 +597,7 @@ class BTree:
             res =res +self._postorder(root.left,res)
             res += self._postorder(root.right,res)
             res.append(self.data)
+        return res
     def postorder(self):
         """
         Returns a list of values obtained by performing a postorder traversal of the binary tree.
@@ -626,6 +627,7 @@ class BTree:
             res =res +self._inorder(root.left,res)
             res.append(self.data)
             res += self._inorder(root.right,res)
+        return res
     def inorder(self):
         """
         Returns a list of values obtained by performing an inorder traversal of the binary tree.
