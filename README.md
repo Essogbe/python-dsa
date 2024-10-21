@@ -53,8 +53,9 @@ Nous distinguons aussi essentiellement les structures de données **linéaires**
 - Taille de l'arbre
 - Hauteur de l'arbre
 
+---
 
-### TO DO
+### TO DO📌
 - Projets Pratiques sur les structures de données ( Ex: Playlists Musicales ..)
 - Graphes 
 - Algos basés sur les structures de données
